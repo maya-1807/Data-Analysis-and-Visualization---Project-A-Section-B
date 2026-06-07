@@ -2,6 +2,7 @@
 from __future__ import annotations
 
 import json
+import re
 from pathlib import Path
 from typing import Any, Dict, Iterable, Iterator, List
 
@@ -13,6 +14,11 @@ ARTIFACTS_DIR = STUDENT_ROOT / "artifacts"
 
 EMBEDDING_MODEL_NAME = "sentence-transformers/all-MiniLM-L6-v2"
 K_EVAL = 10
+
+
+def _tokenize(text: str) -> List[str]:
+    """Lowercase + split into a–z word tokens. Shared by index + retrieve."""
+    return re.findall(r'\b[a-z]+\b', text.lower())
 
 
 def normalize_page_id(value: Any) -> int:
