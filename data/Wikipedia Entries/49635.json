@@ -1,0 +1,5 @@
+{
+  "page_id": "49635",
+  "title": "SEX (computing)",
+  "content": "In computing, the SEX assembly language mnemonic has often been used for the \"codice_1\" machine instruction found in the Motorola 6809. A computer's or CPU's \"sex\" can also mean the endianness of the computer architecture used. x86 computers do not have the same \"byte sex\" as HC11 computers, for example. Functions are sometimes needed for computers of different endianness to communicate with each other over the internet, as protocols often use big endian byte coding by default.\n\nOn the RCA 1802 series of microprocessors, the SEX, for \"codice_2,\" instruction is used to designate which of the machine's sixteen 16-bit registers is to be the X (index) register. SEX in software: rarely used jargon. The TLA SEX has humorously been said to stand for \"Software EXchange\", meaning copying of software. As file sharing has sometimes spread computer virus es, it has been stated that “illicit SEX can transmit viral diseases to your computer.” The involvement of FTP servers' /pub directories in this process has led to the name being explained as a contraction of'pubic'."
+}

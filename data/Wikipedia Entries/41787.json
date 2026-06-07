@@ -1,0 +1,5 @@
+{
+  "page_id": "41787",
+  "title": "Ternary signal",
+  "content": "In telecommunication, a ternary signal is a signal that can assume, at any given instant, one of three states or significant condition s, such as power level, phase position, pulse duration, or frequency. Examples of ternary signals are (a) a pulse that can have a positive, zero, or negative voltage value at any given instant (PAM -3), (b) a sine wave that can assume phases of 0°, 120°, or 240° relative to a clock pulse (3- PSK), and (c) a carrier signal that can assume any one of three different frequencies depending on three different modulation signal significant conditions (3- FM).\n\nSome examples of PAM-3 line code s that use ternary signals are: 3-PSK can be seen as falling between \"binary phase-shift keying\" (BPSK), which uses two phases, and \"quadrature phase-shift keying\" (QPSK), which uses four phases."
+}

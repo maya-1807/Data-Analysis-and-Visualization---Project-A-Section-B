@@ -1,0 +1,5 @@
+{
+  "page_id": "52151",
+  "title": "Triangle wave",
+  "content": "A triangular wave or triangle wave is a non-sinusoidal waveform named for its triangular shape. It is a periodic, piecewise linear, continuous real function. Like a square wave, the triangle wave contains only odd harmonic s. However, the higher harmonics roll off much faster than in a square wave (proportional to the inverse square of the harmonic number as opposed to just the inverse). Definitions. Definition.\n\nA triangle wave of period \"p\" that spans the range [0,1] is defined as:<br where formula_2 is the <a href=\"Floor%20and%20ceiling%20functions\" floor function</a. This can be seen to be the absolute value of a shifted <a href=\"sawtooth%20wave\" sawtooth wave</a."
+}

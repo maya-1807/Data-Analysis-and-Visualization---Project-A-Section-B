@@ -1,0 +1,5 @@
+{
+  "page_id": "8564",
+  "title": "Diffeomorphism",
+  "content": "In mathematics, a diffeomorphism is an isomorphism of smooth manifold s. It is an invertible function that maps one differentiable manifold to another such that both the function and its inverse are smooth. Definition. Given two manifolds formula_1 and formula_2, a differentiable map formula_3 is called a diffeomorphism if it is a bijection and its inverse formula_4 is differentiable as well.\n\nIf these functions are formula_5 times continuously differentiable, formula_6 is called a formula_7-diffeomorphism. Two manifolds formula_1 and formula_2 are diffeomorphic (usually denoted formula_10) if there is a diffeomorphism formula_6 from formula_1 to formula_2. They are formula_7-diffeomorphic if there is an formula_15 times continuously differentiable bijective map between them whose inverse is also formula_5 times continuously differentiable. Diffeomorphisms of subsets of manifolds."
+}

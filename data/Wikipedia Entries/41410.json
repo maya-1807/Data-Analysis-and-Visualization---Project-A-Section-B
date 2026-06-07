@@ -1,0 +1,5 @@
+{
+  "page_id": "41410",
+  "title": "Network management",
+  "content": "Network management is the process of administering and managing computer network s. Services provided by this discipline include fault analysis, performance management, provisioning of networks and maintaining quality of service. Network management software is used by network administrator s to help perform these functions. Technologies. A small number of accessory methods exist to support network and network device management. Network management allows IT professionals to monitor network components within large network area.\n\nAccess methods include the SNMP, command-line interface (CLI), custom XML, CMIP, Windows Management Instrumentation (WMI), Transaction Language 1 (TL1), CORBA, NETCONF, and the Java Management Extensions (JMX). Schemas include the Structure of Management Information (SMI), WBEM, the Common Information Model (CIM Schema), and MTOSI amongst others."
+}

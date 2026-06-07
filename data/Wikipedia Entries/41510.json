@@ -1,0 +1,5 @@
+{
+  "page_id": "41510",
+  "title": "Phase distortion",
+  "content": "In signal processing, phase distortion or phase-frequency distortion is distortion, that is, change in the shape of the waveform, that occurs when (a) a filter's phase response is not linear over the frequency range of interest, that is, the phase shift introduced by a circuit or device is not directly proportional to frequency, or (b) the zero-frequency intercept of the phase-frequency characteristic is not 0 or an integral multiple of 2π radians. Audibility of phase distortion. Grossly changed phase relationships, without changing amplitudes, can be audible but the degree of audibility of the type of phase shifts expected from typical sound systems remains debated."
+}

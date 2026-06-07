@@ -1,0 +1,5 @@
+{
+  "page_id": "41490",
+  "title": "Password length parameter",
+  "content": "In telecommunication, a password length parameter is a basic parameter the value of which affects password strength against brute force attack and so is a contributor to computer security. One use of the password length parameters is in the expression formula_1, where formula_2 is the probability that a password can be guessed in its lifetime, formula_3 is the maximum lifetime a password can be used to log into a system, formula_4 is the number of guesses per unit of time, and formula_5 is the number of unique algorithm-generated passwords (the'password space'). The degree of password security is determined by the probability that a password can be guessed in its lifetime."
+}

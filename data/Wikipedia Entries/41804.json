@@ -1,0 +1,5 @@
+{
+  "page_id": "41804",
+  "title": "Traffic intensity",
+  "content": "In telecommunication networks, traffic intensity is a measure of the average occupancy of a server or resource during a specified period of time, normally a busy hour. It is measured in traffic units (erlang s) and defined as the ratio of the time during which a facility is cumulatively occupied to the time this facility is available for occupancy.\n\nIn a digital network, the traffic intensity is: where A traffic intensity greater than one erlang means that the rate at which bits arrive exceeds the rate bits can be transmitted and queuing delay will grow without bound (if the traffic intensity stays the same). If the traffic intensity is less than one erlang, then the router can handle more average traffic. Telecommunication operators are vitally interested in traffic intensity, as it dictates the amount of equipment they must supply."
+}

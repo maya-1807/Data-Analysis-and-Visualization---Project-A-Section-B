@@ -1,0 +1,5 @@
+{
+  "page_id": "51766",
+  "title": "Elias delta coding",
+  "content": "Elias δ code or Elias delta code is a universal code encoding the positive integers developed by Peter Elias. Encoding. To code a number \"X\" ≥ 1: An equivalent way to express the same process: To represent a number formula_1, Elias delta (δ) uses formula_2 bits. The code begins, using formula_3 instead of formula_4: To decode an Elias delta-coded integer: Example: 001010011 1.\n\n2 leading zeros in 001 2. read 2 more bits i.e. 00101 3. decode N+1 = 00101 = 5 4. get N = 5 − 1 = 4 remaining bits for the complete code i.e. '0011' 5. encoded number = 24 + 3 = 19 This code can be generalized to zero or negative integers in the same ways described in Elias gamma coding. Example code. Encoding."
+}

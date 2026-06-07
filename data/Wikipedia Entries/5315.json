@@ -1,0 +1,5 @@
+{
+  "page_id": "5315",
+  "title": "Character encodings in HTML",
+  "content": "HTML (Hypertext Markup Language) has been in use since 1991, but HTML 4.0 (December 1997) was the first standardized version where international character s were given reasonably complete treatment. When an HTML document includes special characters outside the range of seven-bit ASCII, two goals are worth considering: the information's integrity, and universal browser display. Specifying the document's character encoding. There are several ways to specify which character encoding is used in the document.\n\nFirst, the web server can include the character encoding or \"codice_1\" in the Hypertext Transfer Protocol (HTTP) codice_2 header, which would typically look like this: Content-Type: text/html; charset=ISO-8859-4 This method gives the HTTP server a convenient way to alter document's encoding according to content negotiation; certain HTTP server software can do it, for example Apache with the module codice_3."
+}

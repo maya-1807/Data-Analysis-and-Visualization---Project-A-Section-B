@@ -1,0 +1,5 @@
+{
+  "page_id": "41428",
+  "title": "N-entity",
+  "content": "In telecommunication, a \"n\"-entity is an active element in the \"n\"-th layer of the Open Systems Interconnection--Reference Model (OSI-RM) that (a) interacts directly with elements, \"i.e. \", entities, of the layer immediately above or below the \"n\"-th layer, (b) is defined by a unique set of rules, \"i.e. \", syntax, and information formats, including data and control formats, and (c) performs a defined set of functions.\n\nThe \"n\" refers to any one of the 7 layers of the OSI-RM. In an existing layered open system, the \"n\" may refer to any given layer in the system. Layers are conventionally numbered from the lowest, \"i.e. \", the physical layer, to the highest, so that the -th layer is above the \"n\"-th layer and the -th layer is below."
+}

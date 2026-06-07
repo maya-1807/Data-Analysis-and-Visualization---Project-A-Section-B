@@ -1,0 +1,5 @@
+{
+  "page_id": "52119",
+  "title": "Embedding",
+  "content": "In mathematics, an embedding (or imbedding) is one instance of some mathematical structure contained within another instance, such as a group that is a subgroup. When some object \"X\" is said to be embedded in another object \"Y\", the embedding is given by some injective and structure-preserving map. The precise meaning of \"structure-preserving\" depends on the kind of mathematical structure of which \"X\" and \"Y\" are instances.\n\nIn the terminology of category theory, a structure-preserving map is called a morphism. The fact that a map is an embedding is often indicated by the use of a \"hooked arrow\" (); thus: formula_1 (On the other hand, this notation is sometimes reserved for inclusion map s.) Given \"X\" and \"Y\", several different embeddings of \"X\" in \"Y\" may be possible."
+}

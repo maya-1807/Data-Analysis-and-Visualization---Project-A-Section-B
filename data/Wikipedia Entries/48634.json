@@ -1,0 +1,5 @@
+{
+  "page_id": "48634",
+  "title": "Nowhere dense set",
+  "content": "In mathematics, a subset of a topological space is called nowhere dense or rare if its closure has empty interior. In a very loose sense, it is a set whose elements are not tightly clustered (as defined by the topology on the space) anywhere. For example, the integers are nowhere dense among the reals, whereas an open ball is not.\n\nThe surrounding space matters: a set formula_1 may be nowhere dense when considered as a subset of a topological space formula_2 but not when considered as a subset of another topological space formula_3 Notably, a set is always dense in its own subspace topology. A countable union of nowhere dense sets is called a meagre set. Meagre sets play an important role in the formulation of the Baire category theorem. Characterizations. Density nowhere can be characterized three different (but equivalent) ways."
+}

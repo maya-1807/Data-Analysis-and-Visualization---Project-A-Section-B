@@ -1,0 +1,5 @@
+{
+  "page_id": "16485",
+  "title": "Just another Perl hacker",
+  "content": "Just another Perl hacker, or JAPH, typically refers to a Perl program that prints \"Just another Perl hacker,\" (the comma is canon ical but is occasionally omitted). Short JAPH programs are often used as signatures in online forums, or as T-shirt designs. The phrase or acronym is also occasionally used (without code) for a signature. JAPH programs are classically done using extremely obfuscated methods, in the spirit of the Obfuscated C Contest. More recently, as the phenomenon has become well-known, the phrase is sometimes used in ordinary examples (without obfuscation).\n\nThe idea of using tiny Perl programs that print a signature \"as a signature\" was originated by Randal L. Schwartz, in his postings to the newsgroup comp.lang.perl. He wrote many of the JAPHs which are shown below. Examples. JAPH program without obfuscation: print \"Just another Perl hacker,\"; Embedding JAPH in opaque code: $_='987;s/^(\\d+)/$1-1/e;$1?eval:print\"Just another Perl hacker,\"';eval; Decoding JAPH from a transposed string literal: $_=\"krJhruaesrltre c a cnP,ohet\";$_.=$1,print$2while s/(..)(."
+}

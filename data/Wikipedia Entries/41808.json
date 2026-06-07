@@ -1,0 +1,5 @@
+{
+  "page_id": "41808",
+  "title": "Transmission block",
+  "content": "In telecommunication, the term transmission block has the following meanings: Some protocols require each transmission block to end with an end-of-message marker. This is often a control character such as End-of-Text (ETX), End-of-Transmission-Block (ETB), or End-of-Transmission (EOT). Some protocols (especially those requiring ETX) require each transmission block to begin with a Start-of-Text character (STX)."
+}

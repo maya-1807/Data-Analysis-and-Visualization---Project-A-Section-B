@@ -1,0 +1,5 @@
+{
+  "page_id": "41463",
+  "title": "Optical power margin",
+  "content": "In an optical communications link, the optical power margin is the difference between the optical power that is launched by a given transmitter into the fiber, less transmission losses from all causes, and the minimum optical power that is required by the receiver for a specified level of performance. An optical power margin is typically measured using a calibrated light source and an optical power meter.\n\nThe optical power margin is usually expressed in decibel s (dB). At least several dB of optical power margin should be included in the optical power budget. The amount of optical power launched into a given fiber by a given transmitter depends on the nature of its active optical source (LED or laser diode) and the type of fiber, including such parameters as core diameter and numerical aperture."
+}

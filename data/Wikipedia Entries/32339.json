@@ -1,0 +1,5 @@
+{
+  "page_id": "32339",
+  "title": "Uniform space",
+  "content": "In the mathematical field of topology, a uniform space is a set with a uniform structure. Uniform spaces are topological space s with additional structure that is used to define uniform properties such as completeness, uniform continuity and uniform convergence. Uniform spaces generalize metric space s and topological group s, but the concept is designed to formulate the weakest axioms needed for most proofs in analysis.\n\nIn addition to the usual properties of a topological structure, in a uniform space one formalizes the notions of relative closeness and closeness of points. In other words, ideas like \"\"x\"is closer to\"a\"than\"y\"is to\"b\"\" make sense in uniform spaces."
+}

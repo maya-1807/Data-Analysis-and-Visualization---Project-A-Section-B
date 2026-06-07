@@ -1,0 +1,5 @@
+{
+  "page_id": "41227",
+  "title": "Hamming distance",
+  "content": "In information theory, the Hamming distance between two string s of equal length is the number of positions at which the corresponding symbol s are different. In other words, it measures the minimum number of \"substitutions\" required to change one string into the other, or the minimum number of \"errors\" that could have transformed one string into the other. In a more general context, the Hamming distance is one of several string metric s for measuring the edit distance between two sequences.\n\nIt is named after the American mathematician Richard Hamming. A major application is in coding theory, more specifically to block code s, in which the equal-length strings are vectors over a finite field. Definition. The Hamming distance between two equal-length strings of symbols is the number of positions at which the corresponding symbols are different. Examples. The symbols may be letters, bits, or decimal digits, among other possibilities. For example, the Hamming distance between: Properties."
+}

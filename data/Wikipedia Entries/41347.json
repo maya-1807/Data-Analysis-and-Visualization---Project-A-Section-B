@@ -1,0 +1,5 @@
+{
+  "page_id": "41347",
+  "title": "Maintainability",
+  "content": "In engineering, maintainability is the ease with which a product can be maintained in order to: In some cases, maintainability involves a system of continuous improvement - learning from the past in order to improve the ability to maintain systems, or improve the reliability of systems based on maintenance experience. In telecommunication and several other engineering fields, the term maintainability has the following meanings: Software engineering. In software engineering, these activities are known as software maintenance (cf.\n\nISO/IEC 9126). Closely related concepts in the software engineering domain are evolvability, modifiability, technical debt, and code smells. The maintainability index is calculated with certain formulae from lines-of-code measures, McCabe measures and Halstead complexity measures. The measurement and track of maintainability are intended to help reduce or reverse a system's tendency toward \"code entropy\" or degraded integrity, and to indicate when it becomes cheaper and/or less risky to rewrite the code than it is to change it."
+}

@@ -1,0 +1,5 @@
+{
+  "page_id": "54679",
+  "title": "Cypherpunk anonymous remailer",
+  "content": "A cypherpunk anonymous remailer is a Type I anonymous remailer that takes messages encrypted with PGP or GPG, or in some cases in plain text, and forwards them removing any identifying information from the header. Sending a Cypherpunk Message. Step 1: Retrieving the remailer's Public Key. Step 2: Import remailer's public keys into PGP or GPG. Step 3: Compose Message Step 4: Encrypt Message Step 5: Send Encrypted Message to Remailer"
+}

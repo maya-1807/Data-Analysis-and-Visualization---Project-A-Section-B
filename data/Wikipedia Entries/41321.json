@@ -1,0 +1,5 @@
+{
+  "page_id": "41321",
+  "title": "Link quality analysis",
+  "content": "In adaptive high-frequency (HF) radio, link quality analysis (LQA) is the overall process by which measurements of signal quality are made, assessed, and analyzed. In LQA, signal quality is determined by measuring, assessing, and analyzing link parameters, such as bit error ratio (BER), and the levels of the ratio of signal-plus- noise -plus- distortion to noise-plus-distortion (SINAD). Measurements are stored at—and exchanged between—stations, for use in making decisions about link establishment. For adaptive HF radio, LQA is automatically performed and is usually based on analyses of pseudo-BERs and SINAD readings."
+}

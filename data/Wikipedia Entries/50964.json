@@ -1,0 +1,5 @@
+{
+  "page_id": "50964",
+  "title": "Liouville number",
+  "content": "In number theory, a Liouville number is a real number \"x\" with the property that, for every positive integer \"n\", there exist infinitely many pairs of integers (\"p, q\") with \"q\" 1 such that Liouville numbers are \"almost rational\", and can thus be approximated \"quite closely\" by <a href=\"sequence\" sequence</a s of rational numbers. They are precisely the <a href=\"transcendental%20number\" transcendental</a numbers that can be more closely approximated by rational numbers than any algebraic irrational number.\n\nIn 1844, <a href=\"Joseph%20Liouville\" Joseph Liouville</a showed that all Liouville numbers are transcendental, thus establishing the existence of transcendental numbers for the first time. <a href=\"Pi\" </a and <a href=\"e%20%28number%29\" </a are not Liouville numbers. The existence of Liouville numbers (Liouville's constant). Here we show that Liouville numbers exist by exhibiting a construction that produces such numbers."
+}

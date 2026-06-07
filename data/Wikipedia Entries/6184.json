@@ -1,0 +1,5 @@
+{
+  "page_id": "6184",
+  "title": "Co-NP",
+  "content": "In computational complexity theory, co-NP is a complexity class. A decision problem is a member of co-NP if and only if its complement is in the complexity class NP. The class can be defined as follows: a decision problem is in co-NP precisely if only \"no\"-instances have a polynomial-length \"certificate\" and there is a polynomial-time algorithm that can be used to verify any purported certificate."
+}

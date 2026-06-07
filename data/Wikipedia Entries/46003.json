@@ -1,0 +1,5 @@
+{
+  "page_id": "46003",
+  "title": "Common Language Runtime",
+  "content": "The Common Language Runtime (CLR), the virtual machine component of Microsoft .NET Framework, manages the execution of .NET programs. Just-in-time compilation converts the managed code (compiled intermediate language code) into machine instructions which are then executed on the CPU of the computer. The CLR provides additional services including memory management, type safety, exception handling, garbage collection, security and thread management. All programs written for the .NET Framework, regardless of programming language, are executed by the CLR.\n\nAll versions of the .NET Framework include CLR. The CLR team was started June 13, 1998. CLR implements the Virtual Execution System (VES) as defined in the Common Language Infrastructure (CLI) standard, initially developed by Microsoft itself. A public standard defines the Common Language Infrastructure specification. With Microsoft's move to .NET Core, the CLI VES implementation is known as CoreCLR instead of CLR."
+}

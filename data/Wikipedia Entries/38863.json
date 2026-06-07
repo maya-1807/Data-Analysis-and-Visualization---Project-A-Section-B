@@ -1,0 +1,5 @@
+{
+  "page_id": "38863",
+  "title": "Motorola 68010",
+  "content": "The Motorola MC68010 processor is a 16/32-bit microprocessor from Motorola, released in 1982 as the successor to the Motorola 68000. It fixes several small flaws in the 68000, and adds a few features. The 68010 is pin-compatible with the 68000, but is not 100% software compatible. Some of the differences were: In practice, the overall speed gain over a 68000 at the same frequency is less than 10%.\n\nThe 68010 could be used with the 68451 MMU. However, aspects of its design, such as its 1 clock memory access penalty, made this configuration unpopular. Some vendors used their own MMU designs, such as Sun Microsystems in their Sun-2 workstation and Convergent Technologies in the AT&T UNIX PC/3B1. Usage. The 68010 was never as popular as the 68000."
+}

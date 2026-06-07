@@ -1,0 +1,5 @@
+{
+  "page_id": "46955",
+  "title": "Identity map pattern",
+  "content": "In the design of database management systems, the identity map pattern is a database access design pattern used to improve performance by providing a context-specific, in-memory cache to prevent duplicate retrieval of the same object data from the database. If the requested data has already been loaded from the database, the identity map returns the same instance of the already instantiated object, but if it has not been loaded yet, it loads it and stores the new object in the map. In this way, it follows a similar principle to lazy loading. There are four types of Identity Map"
+}

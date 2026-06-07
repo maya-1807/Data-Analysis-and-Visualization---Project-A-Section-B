@@ -1,0 +1,5 @@
+{
+  "page_id": "41349",
+  "title": "Managed object",
+  "content": "In telecommunication, the term managed object has the following meanings: 1. In a network, an abstract representation of network resources that are managed. With \"representation\", we mean not only the actual device that is managed, but also the device driver, that communicates with the device. An example of a printer as a managed object is the window that shows information about the printer, such as the location, printer status, printing progress, paper choice, and printing margins.\n\nThe database, where all managed objects are stored, is called Management Information Base. In contrast with a CI, a managed object is \"dynamic\" and communicates with other network resources that are managed. \"Note:\" A managed object may represent a physical entity, a network service, or an abstraction of a resource that exists independently of its use in management. 2. In telecommunications management, a resource within the telecommunications environment that may be managed through the use of operation, administration, maintenance, and provisioning (OAMP) application protocols."
+}

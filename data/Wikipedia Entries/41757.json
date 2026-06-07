@@ -1,0 +1,5 @@
+{
+  "page_id": "41757",
+  "title": "Substitution method",
+  "content": "In optical fiber technology, the substitution method is a method of measuring the transmission loss of a fiber. It consists of: The substitution method has certain shortcomings with regard to its accuracy, but its simplicity makes it a popular field test method.\n\nIt is conservative, in that if it were used to measure the individual losses of several long fibers, and the long fibers were concatenated, the total loss obtained (excluding splice losses) would be expected to be lower than the sum of the individual fiber losses. Some modern optical power meters have the capability to set to zero the reference level measured at the output of the reference fiber, so that the transmission loss of the fiber under test may be read out directly."
+}

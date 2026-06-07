@@ -1,0 +1,5 @@
+{
+  "page_id": "50652",
+  "title": "Uniform convergence",
+  "content": "In the mathematical field of analysis, uniform convergence is a mode of convergence of functions stronger than pointwise convergence. A sequence of functions formula_1 converges uniformly to a limiting function formula_2 on a set formula_3 if, given any arbitrarily small positive number formula_4, a number formula_5 can be found such that each of the functions formula_6 differ from formula_2 by no more than formula_4 \"at every point\" formula_9 \"in\" formula_3."
+}

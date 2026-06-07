@@ -1,0 +1,5 @@
+{
+  "page_id": "48899",
+  "title": "Simulation language",
+  "content": "A computer simulation language is used to describe the operation of a simulation on a computer. There are two major types of simulation: continuous and discrete event though more modern languages can handle more complex combinations. Most languages also have a graphical interface and at least a simple statistic gathering capability for the analysis of the results. An important part of discrete-event languages is the ability to generate pseudo-random numbers and variants from different probability distribution s."
+}

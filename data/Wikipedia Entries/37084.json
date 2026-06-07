@@ -1,0 +1,5 @@
+{
+  "page_id": "37084",
+  "title": "Event cascade",
+  "content": "In event-driven computer program s, an event cascade occurs when an event handler causes another event to occur which also triggers an event handler. This can be a tricky source of program errors (see computer bug). An event generated from the code executed in another event response."
+}

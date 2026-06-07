@@ -1,0 +1,5 @@
+{
+  "page_id": "55553",
+  "title": "UDMA",
+  "content": "The Ultra DMA (Ultra Direct Memory Access, UDMA) interface was the fastest method used to transfer data through the ATA controller, usually between the computer and an ATA device. UDMA succeeded Single / Multiword DMA as the interface of choice between ATA devices and the computer. There are 8 different UDMA modes, ranging from 0 to 6 for ATA (0 to 7 for CompactFlash), each with its own timing. Modes faster than UDMA mode 2 require an 80-conductor cable to reduce data settling time s, lower impedance and reduce crosstalk."
+}

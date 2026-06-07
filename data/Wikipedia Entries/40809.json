@@ -1,0 +1,5 @@
+{
+  "page_id": "40809",
+  "title": "Block check character",
+  "content": "In telecommunication s, a block check character (BCC) is a character added to a transmission block to facilitate error detection. In longitudinal redundancy check ing and cyclic redundancy check ing, block check characters are computed for, and added to, each message block transmitted. This block check character is compared with a second block check character computed by the receiver to determine whether the transmission is error free."
+}

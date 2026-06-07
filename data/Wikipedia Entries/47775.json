@@ -1,0 +1,5 @@
+{
+  "page_id": "47775",
+  "title": "Lisp Machine Lisp",
+  "content": "Lisp Machine Lisp is a programming language, a dialect of the language Lisp. A direct descendant of Maclisp, it was initially developed in the mid to late 1970s as the system programming language for the Massachusetts Institute of Technology (MIT) Lisp machine s. Lisp Machine Lisp was also the Lisp dialect with the most influence on the design of Common Lisp. Lisp Machine Lisp branched into three dialects. Symbolics named their variant ZetaLisp.\n\nLisp Machines, Inc. and later Texas Instruments (with the TI Explorer) would share a common code base, but their dialect of Lisp Machine Lisp would differ from the version maintained at the MIT AI Lab by Richard Stallman and others. Manual. The Lisp Machine Manual describes the Lisp Machine Lisp language in detail. The manual was popularly termed the \"Chine Nual\", because the full title was printed across the front and back covers such that only those letters appeared on the front. This name is sometimes further abbreviated by blending the two words into \"Chinual\". Traits. Some Lisp Machine Lisp features:"
+}

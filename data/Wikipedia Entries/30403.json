@@ -1,0 +1,5 @@
+{
+  "page_id": "30403",
+  "title": "Turing machine",
+  "content": "A Turing machine is a mathematical model of computation that defines an abstract machine that manipulates symbols on a strip of tape according to a table of rules. Despite the model's simplicity, given any computer algorithm, a Turing machine capable of simulating that algorithm's logic can be constructed. The machine operates on an infinite memory tape divided into discrete \"cells\". The machine positions its \"head\" over a cell and \"reads\" or \"scans\" the symbol there."
+}

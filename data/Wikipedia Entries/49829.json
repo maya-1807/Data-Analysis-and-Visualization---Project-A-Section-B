@@ -1,0 +1,5 @@
+{
+  "page_id": "49829",
+  "title": "Material dispersion coefficient",
+  "content": "In an optical fiber, the material dispersion coefficient, \"M\"(λ), characterizes the amount of pulse broadening by material dispersion per unit length of fiber and per unit of spectral width. It is usually expressed in picosecond s per (nanometre · kilometre). For many optical fiber materials, \"M\"(λ) approaches zero at a specific wavelength λ0 between 1.3 and 1.5 μm.\n\nAt wavelengths shorter than λ0, \"M\"(λ) is negative and increases with wavelength; at wavelengths longer than λ0, \"M\"(λ) is positive and decreases with wavelength. Pulse broadening caused by material dispersion in a unit length of optical fiber is given by the product of \"M\"(λ) and spectral width (Δλ)."
+}

@@ -1,0 +1,5 @@
+{
+  "page_id": "41793",
+  "title": "Time code ambiguity",
+  "content": "In telecommunication, time code ambiguity is the shortest interval between successive repetitions of the same time code value. For example, in a time code in which year-of-century (the '72' in 10/04/72) is the most slowly changing field, the time code ambiguity would be 100 years; it is ambiguous whether this value refers to a date in 1872, 1972 or some other century.\n\nFor a digital clock in which hours and minutes up to a maximum of 11:59 are displayed, the time code ambiguity would be 12 hours. The Year 2000 problem is an example of the pitfalls of time code ambiguity. Very often dates are now recorded with 4 digit years (10/04/1972). Assuming that the use of a 4-digit year field would continue, even in the far future, this would change the time code ambiguity from 100 years to 10 000 years."
+}

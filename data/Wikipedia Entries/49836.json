@@ -1,0 +1,5 @@
+{
+  "page_id": "49836",
+  "title": "N-ary code",
+  "content": "In telecommunication, an \"n\"-ary code is a code that has \"n\" significant conditions, where \"n\" is a positive integer greater than 1. The integer substituted for \"n\" indicates the specific number of significant conditions, \"i.e. \", quantization states, in the code. For example, an 8-ary code has eight significant conditions and can convey three bits per code symbol.\n\nA prefix that indicates an integer, \"e.g. \", \"bin\", \"tern,\" or \"quatern\", may be used in lieu of a numeral, to produce \"binary\", \"ternary\", or \"quaternary\" (2, 3, and 4 states respectively). See also. Source: from Federal Standard 1037C and from MIL-STD-188"
+}

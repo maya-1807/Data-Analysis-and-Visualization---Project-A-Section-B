@@ -1,0 +1,5 @@
+{
+  "page_id": "40901",
+  "title": "Comma-free code",
+  "content": "A comma-free code is block code in which no concatenation of two code word s contains a valid code word that overlaps both. Comma-free codes are also known as \"self-synchronizing block codes\" because no synchronization is required to find the beginning of a code word."
+}

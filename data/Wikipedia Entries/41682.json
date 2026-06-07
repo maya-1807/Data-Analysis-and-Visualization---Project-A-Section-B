@@ -1,0 +1,5 @@
+{
+  "page_id": "41682",
+  "title": "Secondary frequency standard",
+  "content": "In telecommunication s, a secondary frequency standard is a frequency standard that does not have inherent accuracy, and therefore must be calibrated against a primary frequency standard. Secondary standards include crystal oscillator s and rubidium standard s. A crystal oscillator depends for its frequency on its physical dimensions, which vary with fabrication and environmental conditions. A rubidium standard is a secondary standard even though it uses atomic transitions, because it takes the form of a gas cell through which an optical signal is passed. The gas cell has inherent inaccuracies because of gas pressure variations, including those induced by temperature variations. There are also variations in the concentrations of the required buffer gases, which variations cause frequency deviations."
+}

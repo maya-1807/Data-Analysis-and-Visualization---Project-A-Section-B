@@ -1,0 +1,5 @@
+{
+  "page_id": "51731",
+  "title": "Lipschitz continuity",
+  "content": "In mathematical analysis, Lipschitz continuity, named after Rudolf Lipschitz, is a strong form of uniform continuity for function s. Intuitively, a Lipschitz continuous function is limited in how fast it can change: there exists a real number such that, for every pair of points on the graph of this function, the absolute value of the slope of the line connecting them is not greater than this real number; the smallest such bound is called the \"Lipschitz constant\" of the function (or \"modulus of uniform continuity\").\n\nFor instance, every function that has bounded first derivatives is Lipschitz continuous. In the theory of differential equation s, Lipschitz continuity is the central condition of the Picard–Lindelöf theorem which guarantees the existence and uniqueness of the solution to an initial value problem. A special type of Lipschitz continuity, called contraction, is used in the Banach fixed-point theorem. We have the following chain of strict inclusions for functions over a closed and bounded non-trivial interval of the real line where 0 < α ≤ 1. We also have Definitions."
+}

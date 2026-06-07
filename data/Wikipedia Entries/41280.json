@@ -1,0 +1,5 @@
+{
+  "page_id": "41280",
+  "title": "Intermediate distribution frame",
+  "content": "An intermediate distribution frame (IDF) is a distribution frame in a central office or customer premises, which cross connects the user cable media to individual user line circuits and may serve as a distribution point for multipair cables from the main distribution frame (MDF) or combined distribution frame (CDF) to individual cables connected to equipment in areas remote from these frames. IDFs are used for telephone exchange central office, customer-premises equipment, wide area network (WAN), and local area network (LAN) environments, among others.\n\nIn central office environments the IDF may contain circuit termination equipment from various auxiliary components. In WAN and LAN environments IDFs can hold devices of different types including backup systems (hard drives or other media as self-contained, or as RAID s, CD-ROM s, etc.), networking (switches, hubs, routers), and connections (fiber optics, coaxial, category cables) and so on."
+}

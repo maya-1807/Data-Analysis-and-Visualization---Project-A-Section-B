@@ -1,0 +1,5 @@
+{
+  "page_id": "41717",
+  "title": "S interface",
+  "content": "The S interface or S reference point, also known as S0, is a user–network interface reference point in an ISDN BRI environment, characterized by a four-wire circuit using 144kbit/s (2 bearer and 1 signaling channel; 2B+D) user rate. The S interface is the connection between ISDN terminal equipment (TE) or terminal adapters (TAs) and an NT1 (network terminator, type 1.) Not all TE or TAs connect externally to an S interface, but instead integrate an NT1 so they can connect directly to a U interface (local loop from central office.)\n\nContrast to the T interface, which connects between an NT2 (PBX or other local switching device) and NT1. However, the S interface is electrically equivalent to the T interface, and the two are jointly referred to as the S/T interface. The S interface operates at 4000 48- bit frames per second; i.e., 192kbit/s, with a user portion of 36bits per frame; i.e., 144kbit/s."
+}

@@ -1,0 +1,5 @@
+{
+  "page_id": "41570",
+  "title": "Power-law index profile",
+  "content": "For optical fiber s, a power-law index profile is an index of refraction profile characterized by where formula_2 and formula_3 is the nominal refractive index as a function of distance from the fiber axis, formula_4 is the nominal refractive index on axis, formula_5 is the refractive index of the cladding, which is taken to be homogeneous (formula_6), formula_7 is the core radius, and formula_8 is a parameter that defines the shape of the profile. formula_7 is often used in place of formula_8. Hence, this is sometimes called an alpha profile. For this class of profiles, multimode distortion is smallest when formula_8 takes a particular value depending on the material used. For most materials, this optimum value is approximately 2. In the limit of infinite formula_8, the profile becomes a step-index profile."
+}

@@ -1,0 +1,5 @@
+{
+  "page_id": "1063",
+  "title": "Algorithms for calculating variance",
+  "content": "Algorithms for calculating variance play a major role in computational statistics. A key difficulty in the design of good algorithm s for this problem is that formulas for the variance may involve sums of squares, which can lead to numerical instability as well as to arithmetic overflow when dealing with large values. Naïve algorithm."
+}

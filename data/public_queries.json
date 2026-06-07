@@ -1,0 +1,402 @@
+[
+  {
+    "query_id": "q_public_001",
+    "query": "Who was the point guard that won a seven-game finals series in the 1820s?",
+    "relevant_page_ids": [
+      "20263"
+    ]
+  },
+  {
+    "query_id": "q_public_002",
+    "query": "Who captained the Los Angeles basketball franchise when they won the 1987 championship?",
+    "relevant_page_ids": [
+      "9112"
+    ]
+  },
+  {
+    "query_id": "q_public_003",
+    "query": "What river delta municipality has about 1,456,779 residents?",
+    "relevant_page_ids": [
+      "25051"
+    ]
+  },
+  {
+    "query_id": "q_public_004",
+    "query": "Which physicist's team improved stability over thermal imaging pipelines two years before publication?",
+    "relevant_page_ids": [
+      "42955"
+    ]
+  },
+  {
+    "query_id": "q_public_005",
+    "query": "Which franchise player averaged 24 points in the last two games of a title series?",
+    "relevant_page_ids": [
+      "2614"
+    ]
+  },
+  {
+    "query_id": "q_public_006",
+    "query": "Who negotiated overseas distribution deals during a company's international expansion?",
+    "relevant_page_ids": [
+      "4065"
+    ]
+  },
+  {
+    "query_id": "q_public_007",
+    "query": "Where did urban planners redesign a riverfront for festivals in 1972?",
+    "relevant_page_ids": [
+      "50923"
+    ]
+  },
+  {
+    "query_id": "q_public_008",
+    "query": "When did automated assembly lines modernize a factory decades after the company was founded?",
+    "relevant_page_ids": [
+      "33775"
+    ]
+  },
+  {
+    "query_id": "q_public_009",
+    "query": "Which physicist's team improved stability over thermal imaging pipelines two years before publication?",
+    "relevant_page_ids": [
+      "5508"
+    ]
+  },
+  {
+    "query_id": "q_public_010",
+    "query": "Which franchise player averaged 24 points in the last two games of a title series?",
+    "relevant_page_ids": [
+      "22890"
+    ]
+  },
+  {
+    "query_id": "q_public_011",
+    "query": "Who chaired preliminary peace talks the year before a September 1958 signing?",
+    "relevant_page_ids": [
+      "37638"
+    ]
+  },
+  {
+    "query_id": "q_public_012",
+    "query": "What agreement established trade corridors and a joint commission in 1965?",
+    "relevant_page_ids": [
+      "3267"
+    ]
+  },
+  {
+    "query_id": "q_public_013",
+    "query": "When did automated assembly lines modernize a factory decades after the company was founded?",
+    "relevant_page_ids": [
+      "56456"
+    ]
+  },
+  {
+    "query_id": "q_public_014",
+    "query": "Who founded a youth basketball foundation after retiring to a hometown arena city?",
+    "relevant_page_ids": [
+      "32322"
+    ]
+  },
+  {
+    "query_id": "q_public_015",
+    "query": "Which city hosts light commuter rail and a small regional airport on a fjord-lined coast?",
+    "relevant_page_ids": [
+      "13249"
+    ]
+  },
+  {
+    "query_id": "q_public_016",
+    "query": "Who led the group that published reproducible laboratory results on stress imaging through harmonic vibration analysis?",
+    "relevant_page_ids": [
+      "1904"
+    ]
+  },
+  {
+    "query_id": "q_public_017",
+    "query": "Which executive introduced cooperative profit-sharing at a maritime logistics firm?",
+    "relevant_page_ids": [
+      "5045"
+    ]
+  },
+  {
+    "query_id": "q_public_018",
+    "query": "Where was the championship clinched in a Memorial Arena game?",
+    "relevant_page_ids": [
+      "27627"
+    ]
+  },
+  {
+    "query_id": "q_public_019",
+    "query": "Which physicist's team improved stability over thermal imaging pipelines two years before publication?",
+    "relevant_page_ids": [
+      "26566"
+    ]
+  },
+  {
+    "query_id": "q_public_020",
+    "query": "Which franchise player averaged 24 points in the last two games of a title series?",
+    "relevant_page_ids": [
+      "3905"
+    ]
+  },
+  {
+    "query_id": "q_public_021",
+    "query": "Who led the group that published reproducible laboratory results on phase-sensitive radiometry in orbital configurations?",
+    "relevant_page_ids": [
+      "14901"
+    ]
+  },
+  {
+    "query_id": "q_public_022",
+    "query": "Where did urban planners redesign a riverfront for festivals in 1972?",
+    "relevant_page_ids": [
+      "5251"
+    ]
+  },
+  {
+    "query_id": "q_public_023",
+    "query": "When did automated assembly lines modernize a factory decades after the company was founded?",
+    "relevant_page_ids": [
+      "34690"
+    ]
+  },
+  {
+    "query_id": "q_public_024",
+    "query": "Who founded a youth basketball foundation after retiring to a hometown arena city?",
+    "relevant_page_ids": [
+      "26879"
+    ]
+  },
+  {
+    "query_id": "q_public_025",
+    "query": "Who served as negotiator for a republic that reopened overland routes after 1995?",
+    "relevant_page_ids": [
+      "3310"
+    ]
+  },
+  {
+    "query_id": "q_public_026",
+    "query": "What links a captain's finals performance, his club's rebuild, and a named home arena?",
+    "relevant_page_ids": [
+      "51300",
+      "36551"
+    ]
+  },
+  {
+    "query_id": "q_public_027",
+    "query": "Which diplomatic settlement involved neutral observers and a joint commission chair?",
+    "relevant_page_ids": [
+      "7393",
+      "13762"
+    ]
+  },
+  {
+    "query_id": "q_public_028",
+    "query": "What can be learned about a city's economy, geography, and transport network together?",
+    "relevant_page_ids": [
+      "41307",
+      "40903"
+    ]
+  },
+  {
+    "query_id": "q_public_029",
+    "query": "What links profit-sharing labor policy, alloy research partnerships, and spin-off software products?",
+    "relevant_page_ids": [
+      "37655",
+      "3481"
+    ]
+  },
+  {
+    "query_id": "q_public_030",
+    "query": "Which population center combines cold-water fisheries exports with sister-city training exchanges?",
+    "relevant_page_ids": [
+      "37226",
+      "37855"
+    ]
+  },
+  {
+    "query_id": "q_public_031",
+    "query": "How do a lead researcher's career, an institute's field trials, and graduate teaching of a method connect?",
+    "relevant_page_ids": [
+      "25172",
+      "2728"
+    ]
+  },
+  {
+    "query_id": "q_public_032",
+    "query": "What links humidity-controlled experiments, bridge monitoring applications, and a patent pool?",
+    "relevant_page_ids": [
+      "13638",
+      "2522"
+    ]
+  },
+  {
+    "query_id": "q_public_033",
+    "query": "Which firm expanded from harbor crane components to international service contracts?",
+    "relevant_page_ids": [
+      "35560",
+      "53419"
+    ]
+  },
+  {
+    "query_id": "q_public_034",
+    "query": "How did negotiations, a signed treaty, and post-war demobilization reports fit together in 1836?",
+    "relevant_page_ids": [
+      "7997",
+      "18097",
+      "26610"
+    ]
+  },
+  {
+    "query_id": "q_public_035",
+    "query": "What links humidity-controlled experiments, bridge monitoring applications, and a patent pool?",
+    "relevant_page_ids": [
+      "8722",
+      "34028",
+      "7026"
+    ]
+  },
+  {
+    "query_id": "q_public_036",
+    "query": "Which population center combines shipbuilding exports with sister-city training exchanges?",
+    "relevant_page_ids": [
+      "36861",
+      "19401",
+      "36021"
+    ]
+  },
+  {
+    "query_id": "q_public_037",
+    "query": "What can be learned about a city's economy, geography, and transport network together?",
+    "relevant_page_ids": [
+      "50630",
+      "44025",
+      "11105"
+    ]
+  },
+  {
+    "query_id": "q_public_038",
+    "query": "What links humidity-controlled experiments, bridge monitoring applications, and a patent pool?",
+    "relevant_page_ids": [
+      "6098",
+      "37542",
+      "36881"
+    ]
+  },
+  {
+    "query_id": "q_public_039",
+    "query": "Which diplomatic settlement involved neutral observers and a joint commission chair?",
+    "relevant_page_ids": [
+      "42062",
+      "11549",
+      "23248"
+    ]
+  },
+  {
+    "query_id": "q_public_040",
+    "query": "How do a CEO's agreements, a company's research division, and overseas revenue growth connect?",
+    "relevant_page_ids": [
+      "5731",
+      "34448",
+      "45012"
+    ]
+  },
+  {
+    "query_id": "q_public_041",
+    "query": "What links profit-sharing labor policy, alloy research partnerships, and spin-off software products?",
+    "relevant_page_ids": [
+      "3511",
+      "36503",
+      "3327"
+    ]
+  },
+  {
+    "query_id": "q_public_042",
+    "query": "Which firm expanded from harbor crane components to international service contracts?",
+    "relevant_page_ids": [
+      "40201",
+      "12699",
+      "31602"
+    ]
+  },
+  {
+    "query_id": "q_public_043",
+    "query": "How do a lead researcher's career, an institute's field trials, and graduate teaching of a method connect?",
+    "relevant_page_ids": [
+      "43973",
+      "33570",
+      "27139",
+      "48438"
+    ]
+  },
+  {
+    "query_id": "q_public_044",
+    "query": "What links a captain's finals performance, his club's rebuild, and a named home arena?",
+    "relevant_page_ids": [
+      "19684",
+      "29682",
+      "28865",
+      "22668"
+    ]
+  },
+  {
+    "query_id": "q_public_045",
+    "query": "Which diplomatic settlement involved neutral observers and a joint commission chair?",
+    "relevant_page_ids": [
+      "18759",
+      "15413",
+      "49441",
+      "11065"
+    ]
+  },
+  {
+    "query_id": "q_public_046",
+    "query": "What can be learned about a city's economy, geography, and transport network together?",
+    "relevant_page_ids": [
+      "44582",
+      "48603",
+      "15135",
+      "4740"
+    ]
+  },
+  {
+    "query_id": "q_public_047",
+    "query": "What links humidity-controlled experiments, bridge monitoring applications, and a patent pool?",
+    "relevant_page_ids": [
+      "37066",
+      "18779",
+      "33315",
+      "31510"
+    ]
+  },
+  {
+    "query_id": "q_public_048",
+    "query": "Who was the on-court leader during a championship year that also saw a commemorative banner raised?",
+    "relevant_page_ids": [
+      "54465",
+      "21584",
+      "45655",
+      "28542"
+    ]
+  },
+  {
+    "query_id": "q_public_049",
+    "query": "How do a CEO's agreements, a company's research division, and overseas revenue growth connect?",
+    "relevant_page_ids": [
+      "17966",
+      "39400",
+      "4114",
+      "7041"
+    ]
+  },
+  {
+    "query_id": "q_public_050",
+    "query": "What links a captain's finals performance, his club's rebuild, and a named home arena?",
+    "relevant_page_ids": [
+      "32656",
+      "26564",
+      "10052",
+      "47196"
+    ]
+  }
+]
