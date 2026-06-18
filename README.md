@@ -140,5 +140,5 @@ docs/                pipeline flow chart
 
 ## Presentation video
 
-<!-- TODO: replace with the real link before submission -->
-Link: **<ADD PRESENTATION VIDEO LINK HERE>**
+Link: **[Watch the Presentation Video](https://technionmail-my.sharepoint.com/:v:/g/personal/mmeirovich_campus_technion_ac_il/IQDtDfTbdheaRZADod9IKf0AAYMfUxQmTw2VZe961LoN7Wg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=QCU6dN)**
+
